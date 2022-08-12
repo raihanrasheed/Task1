@@ -1,0 +1,73 @@
+
+form{
+    
+    background-color: bisque;
+    display : flex;
+    flex-direction :column;
+    background-image: url(r.jpeg);
+  color:rgba(201, 140, 140, 0.625);
+ 
+
+font-family:'Courier New', Courier, monospace;
+   
+ }
+ 
+ label{
+    margin-bottom: 10px;
+ }
+
+ input,select,textarea{
+    color: antiquewhite;
+    size: 50px;
+    height: 25px;
+    background-color: bisque;
+    
+ }
+ placeholder{
+    color: black;
+ }
+
+ .information{
+    display : flex;
+    flex-direction :column;
+    margin-left: 8%;
+    margin-right: 70%;
+
+
+ }
+
+ h1{  margin-left: 8%;
+    margin-right: 70%;
+    margin-top: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    color: brown;
+   
+ }
+ 
+
+
+ .mor-inf{
+ margin-left: 8%;
+    margin-right: 70%;
+    display: flex;
+    flex-direction: column;
+ }
+ .option{
+     
+    margin-left: 8%;
+    margin-right: 70%;
+ }
+ .submit{
+    margin-left: 26%;
+    margin-right: 70%;
+    padding-top: 10px;
+    color: black;
+    cursor: pointer;
+    
+ }
+ .choices{
+   
+    margin-left: 8%;
+    margin-right: 70%;
+ }
